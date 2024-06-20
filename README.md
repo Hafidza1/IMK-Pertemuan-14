@@ -1,9 +1,12 @@
-# Promosi Bisnis Elektronik
+# Interaksi Manusia Dan Komputer 
+# Pertemuan 14
 
+# Anggota Kelompok  Nim
+ # Abiyanfaras Danuyasa   (312210103)  
+ # Birrham Efendi Lubis  (312210272)  
+ # Hafidza Dafariz Mujizat  (312210276)  
+ # Muhammad Zidan Fadillah  (312210277)  
 
-|  ANGGOTA KELOMPOK| NIM  |
-| --- | --- | --- | 
-| Abiyanfaras Danuyasa  | 312210103  |
-| Birrham efendi lubis | 312210272 | 
-| Hafidza dafariz mujizat | 312210276 | 
-| Muhammad Zidan Fadillah  | 312210277  |
+ # LINK YOUTUBE
+
+ # https://youtu.be/6ck_l8tBNsQ
